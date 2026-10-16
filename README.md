@@ -117,7 +117,7 @@ identity:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhu-36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Madhu-36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu-36&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 <br/><br/>
