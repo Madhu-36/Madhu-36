@@ -5,10 +5,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Crafting+Immersive+Game+Worlds+%F0%9F%8E%AE;Securing+Architectures+%26+Systems+%F0%9F%9B%A1%EF%B8%8F;Bridging+Intelligence%2C+Interactivity+%26+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=AI%2C+Data+Science+%26+Cybersecurity+Engineer;Building+Next-Gen+Adaptive+AI+Firewalls+%F0%9F%9B%A1%EF%B8%8F;Developing+Immersive+3D+Games+%26+Systems+%F0%9F%8E%AE;Engineering+High-Performance+Rust+Developer+Tools+%E2%9A%A1;Developing+%26+Securing+Innovation%2C+one+byte+at+a+time)](https://git.io/typing-svg)
 
 <br/>
 
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://madhu-36.github.io/My_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-s-)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Madhu_Sat)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhu.s.3606@gmail.com)
@@ -24,92 +25,116 @@
 identity:
   name: Madhu S
   handle: Madhu-36
-  disciplines:
-    - Artificial Intelligence & Deep Learning
-    - Game Development & Interactive Systems
-    - Offensive & Defensive Cyber Security
-  philosophy: "Make it think. Make it play. Keep it safe."
-  interests: [Neural Networks, Computer Vision, Procedural Generation, Game Physics, Penetration Testing, Reverse Engineering]
+  portfolio: "https://madhu-36.github.io/My_Portfolio/"
+  education: "B.E. in Computer Science (AI & Data Science) — East West Institute of Technology"
+  roles:
+    - AI & Data Science Engineer
+    - Cybersecurity Researcher & Ethical Hacker
+    - Interactive 3D & Game Developer
+  core_stack: [Python, C#, Rust, TypeScript, PyTorch, Unity, Kali Linux, Three.js]
+  motto: "Developing and Securing INNOVATION, one byte at a time."
 ```
 
-- 🤖 **AI Engineering**: Designing and deploying intelligent architectures — LLM workflows, deep learning models, computer vision pipelines, and reinforcement learning agents.
-- 🎮 **Game Development**: Creating rich, interactive virtual worlds using Unreal Engine, Unity, and C++/C# with a focus on AI-driven NPCs and dynamic gameplay.
-- 🛡️ **Ethical Hacking**: Proactively auditing, penetration testing, and identifying vulnerabilities to fortify systems before attackers exploit them.
+- 🛡️ **Cybersecurity & Ethical Hacking**: Experienced intern at *Jutrm Career Academy* and *ACMEGRADE* conducting real-time penetration testing, OWASP Top 10 web app assessments (SQLi, XSS, IDOR), kernel-level audits, and network threat defense.
+- 🤖 **AI & Data Science**: Building intelligent systems ranging from kernel-level adaptive AI firewalls (LSTM-Autoencoder + PPO RL) to local LLM executive brains (Llama 3.1) and security AST parsers.
+- 🎮 **Game & 3D Development**: Crafting interactive 3D virtual environments and games with Unity Engine, C#, Three.js / WebGL shaders, and procedural generation pipelines.
 
 ---
 
-### 🛠️ Tech Arsenal & Skillset
+### 🛠️ Technical Arsenal
 
 <br/>
 
 <details open>
-<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
+<summary><b>🛡️ Cybersecurity & Ethical Hacking</b></summary>
+<br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-11314B?style=flat-square&logo=rapid7&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-002D62?style=flat-square&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧠 Artificial Intelligence & Data Science</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🎮 Game Development & Graphics</b></summary>
+<summary><b>🎮 Game & 3D Graphics Development</b></summary>
 <br/>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🛡️ Cyber Security & Ethical Hacking</b></summary>
+<summary><b>⚡ Systems, Languages & Cloud</b></summary>
 <br/>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-11314B?style=flat-square&logo=rapid7&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-002D62?style=flat-square&logo=nmap&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ DevOps, Cloud & Platforms</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </details>
 
 ---
 
-### 🚀 Featured Highlights & Projects
+### 🚀 Featured Repositories & Real-World Projects
 
 | Project | Focus | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| **🧠 Neural NPC Core** | `AI & Gaming` | Autonomous NPC behavior engine using Reinforcement Learning and Behaviour Trees for realistic decision-making. | `Python`, `PyTorch`, `Unreal Engine 5`, `C++` |
-| **🎮 CyberStrike Protocol** | `Game Dev` | Sci-fi action gameplay prototype featuring procedurally generated arenas and tactical combat mechanics. | `Unity`, `C#`, `Blender`, `HLSL` |
-| **🛡️ SecScan Automata** | `Security` | Fast, lightweight vulnerability assessment CLI targeting OWASP Top 10 web vectors with automated exploit verification. | `Rust`, `Python`, `Bash`, `Docker` |
-| **👁️ VisionSentinel** | `AI & Security` | Real-time computer vision surveillance system with anomaly detection and adversarial attack resistance. | `PyTorch`, `OpenCV`, `FastAPI` |
+| **🛡️ [Adaptive-firewall-Application-using-AI](https://github.com/Madhu-36/Adaptive-firewall-Application-using-AI)** | `AI & Security` | Next-generation adaptive firewall featuring real-time anomaly detection and eBPF / XDP kernel-level rule automation (LSTM-Autoencoder + PPO RL). | `Python`, `eBPF`, `PyTorch`, `Scapy` |
+| **⚡ [DevIgnite](https://github.com/Madhu-36/DevIgnite)** | `Systems & CLI` | High-performance, cross-platform developer environment manager with a sandboxed symlink routing engine to eliminate path pollution. | `Rust`, `Systems`, `CLI Architecture` |
+| **🔍 [ASTra](https://github.com/Madhu-36/ASTra)** | `Security & AI` | Security-first, repository-local action layer for AI Developer Assistants, providing safe execution sandboxes and AST-based vulnerability scanning. | `Python`, `AST`, `Code Security` |
+| **📡 [Packet-way](https://github.com/Madhu-36/Packet-way)** | `Network Forensics` | Enterprise-grade network threat detection and deep packet inspection engine with raw socket traffic reconstruction. | `JavaScript`, `Node.js`, `Protocols` |
+| **🎮 [Game-Complex](https://github.com/Madhu-36/Game-Complex)** | `Game Ecosystem` | Interactive gaming storefront and 3D environment architecture featuring procedural systems and high-throughput backend services. | `Unity`, `C#`, `React`, `Django` |
+| **🧠 [MXB (Machine eXecutive Brain)](https://github.com/Madhu-36/MXB)** | `Local AI Agents` | AI-powered second brain and system executive assistant for Windows powered by local Llama 3.1 inference. | `Python`, `Llama 3.1`, `Automation` |
+| **🌐 [Interactive 3D Portfolio](https://github.com/Madhu-36/My_Portfolio)** | `3D Graphics & Web` | Futuristic 3D portfolio with Three.js WebGL rendering, custom cursor physics, Web Audio SFX engine, and telemetry HUD ([Live Demo](https://madhu-36.github.io/My_Portfolio/)). | `React`, `Three.js`, `TypeScript`, `Tailwind` |
+
+---
+
+### 📜 Certifications & Job Simulations
+
+- **🛡️ Cyber Security Analyst** — *TATA STRIVE*
+- **☁️ AWS Certified Cloud Practitioner** — *Amazon Web Services*
+- **🔐 Cybersecurity Job Simulation** — *Deloitte*
+- **🧠 AI Fluency** — *Anthropic / Claude*
+- **🎯 Junior Programmer** — *Unity Technologies*
+- **⚔️ Cyber Security Operations** — *Forage Simulation*
+
+---
+
+### 💼 Experience
+
+- **Ethical Hacker Intern** — *Jutrm Career Academy* (Mar 2026)  
+  *Conducted real-time penetration testing, kernel-level security audits, and network infrastructure vulnerability assessments.*
+- **Ethical Hacker Intern** — *ACMEGRADE* (Dec 2025 – Jun 2026)  
+  *Executed web application vulnerability assessments with Burp Suite and Nmap, validating OWASP Top 10 vulnerabilities (SQLi, XSS, IDOR) and drafting technical remediation reports.*
 
 ---
 
@@ -128,14 +153,16 @@ identity:
 
 ---
 
-### 🤝 Get In Touch
+### 🤝 Connect & Collaborate
 
 <div align="center">
 
-Whether you want to collaborate on an **AI model**, build an **innovative game**, or discuss **cybersecurity**, let's connect!
+Whether you're interested in **AI-driven security**, **interactive game systems**, or **collaborative penetration testing**, let's build together!
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Visit-Live%20Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://madhu-36.github.io/My_Portfolio/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-s-)
 &nbsp;
 [![Follow on X](https://img.shields.io/badge/Follow%20%40Madhu__Sat-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Madhu_Sat)
@@ -144,6 +171,6 @@ Whether you want to collaborate on an **AI model**, build an **innovative game**
 
 <br/>
 
-*"The intersection of intelligence, immersion, and security is where the future happens."*
+*"Developing and Securing INNOVATION, one byte at a time."*
 
 </div>
