@@ -160,6 +160,14 @@ identity:
 
 <img src="https://streak-stats.demolab.com?user=Madhu-36&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/github-contribution-grid-snake-dark.svg" width="97%" />
+</picture>
+
 </div>
 
 ---
