@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=AI%2C+Data+Science+%26+Cybersecurity+Engineer;Building+Next-Gen+Adaptive+AI+Firewalls+%F0%9F%9B%A1%EF%B8%8F;Developing+Immersive+3D+Games+%26+Systems+%F0%9F%8E%AE;Engineering+High-Performance+Rust+Developer+Tools+%E2%9A%A1;Developing+%26+Securing+Innovation%2C+one+byte+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=750&lines=AI%2C+Data+Science+%26+Cybersecurity+Engineer;Team+Lead+%40+EW+Root+Coders+(SIH+%26+NASA+Space+Apps+2025);Building+Adaptive+AI+Firewalls+%26+Kernel+Defense+%F0%9F%9B%A1%EF%B8%8F;Architecting+MXB+V2.0+Local+Executive+Brain+%F0%9F%A7%A0;Crafting+Immersive+3D+Games+%26+Interactive+Engines+%F0%9F%8E%AE;Developing+%26+Securing+Innovation%2C+one+byte+at+a+time)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,17 +27,19 @@ identity:
   handle: Madhu-36
   portfolio: "https://madhu-36.github.io/My_Portfolio/"
   education: "B.E. in Computer Science (AI & Data Science) — East West Institute of Technology"
-  roles:
-    - AI & Data Science Engineer
-    - Cybersecurity Researcher & Ethical Hacker
-    - Interactive 3D & Game Developer
-  core_stack: [Python, C#, Rust, TypeScript, PyTorch, Unity, Kali Linux, Three.js]
-  motto: "Developing and Securing INNOVATION, one byte at a time."
+  leadership: "Team Lead — EW Root Coders (NASA Space Apps & Smart India Hackathon 2025)"
+  disciplines:
+    - Artificial Intelligence & Autonomous Agents
+    - Defensive & Offensive Cybersecurity (Penetration Testing)
+    - Interactive 3D Graphics & Game Engine Development
+  core_stack: [Python, C#, Rust, TypeScript, PyTorch, Unity 6.0, Kali Linux, Three.js, Ollama]
+  philosophy: "Developing and Securing INNOVATION, one byte at a time."
 ```
 
-- 🛡️ **Cybersecurity & Ethical Hacking**: Experienced intern at *Jutrm Career Academy* and *ACMEGRADE* conducting real-time penetration testing, OWASP Top 10 web app assessments (SQLi, XSS, IDOR), kernel-level audits, and network threat defense.
-- 🤖 **AI & Data Science**: Building intelligent systems ranging from kernel-level adaptive AI firewalls (LSTM-Autoencoder + PPO RL) to local LLM executive brains (Llama 3.1) and security AST parsers.
-- 🎮 **Game & 3D Development**: Crafting interactive 3D virtual environments and games with Unity Engine, C#, Three.js / WebGL shaders, and procedural generation pipelines.
+- 🛡️ **Cybersecurity & Ethical Hacking**: Experienced intern at *Jutrm Career Academy* & *ACMEGRADE* conducting real-time penetration testing, OWASP Top 10 web app assessments (SQLi, XSS, IDOR), kernel-level audits, and network threat defense.
+- 🤖 **AI & Autonomous Agents**: Creator of **MXB V2.0** (ultra-fast local voice AI assistant & Windows executive brain with Llama 3.1) and **Adaptive Firewall** (LSTM-Autoencoder + PPO RL with eBPF / XDP kernel filtering).
+- 🎮 **Game & 3D Development**: Crafting interactive virtual worlds with Unity Engine 6.0, C#, Three.js / WebGL shaders, procedural terrain generation, and AI behavior trees.
+- 👑 **Innovation & Hackathon Leadership**: Selected as **Team Lead** representing EWIT in both **NASA Space Apps Challenge 2025** and **Smart India Hackathon 2025**.
 
 ---
 
@@ -61,13 +63,14 @@ identity:
 </details>
 
 <details open>
-<summary><b>🧠 Artificial Intelligence & Data Science</b></summary>
+<summary><b>🧠 Artificial Intelligence & Machine Learning</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -80,7 +83,7 @@ identity:
 <br/>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_6.0-100000?style=flat-square&logo=unity&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
@@ -108,13 +111,21 @@ identity:
 
 | Project | Focus | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
+| **🧠 [MXB (Machine eXecutive Brain) V2.0](https://github.com/Madhu-36/MXB)** | `Local AI & Agents` | Ultra-fast local voice AI assistant & autonomous executive engine for Windows with local Llama 3.1, Whisper, glassmorphism HUD, TF-IDF semantic memory, and automated workflow task orchestration. | `Python`, `Llama 3.1`, `Whisper`, `Ollama` |
 | **🛡️ [Adaptive-firewall-Application-using-AI](https://github.com/Madhu-36/Adaptive-firewall-Application-using-AI)** | `AI & Security` | Next-generation adaptive firewall featuring real-time anomaly detection and eBPF / XDP kernel-level rule automation (LSTM-Autoencoder + PPO RL). | `Python`, `eBPF`, `PyTorch`, `Scapy` |
 | **⚡ [DevIgnite](https://github.com/Madhu-36/DevIgnite)** | `Systems & CLI` | High-performance, cross-platform developer environment manager with a sandboxed symlink routing engine to eliminate path pollution. | `Rust`, `Systems`, `CLI Architecture` |
 | **🔍 [ASTra](https://github.com/Madhu-36/ASTra)** | `Security & AI` | Security-first, repository-local action layer for AI Developer Assistants, providing safe execution sandboxes and AST-based vulnerability scanning. | `Python`, `AST`, `Code Security` |
 | **📡 [Packet-way](https://github.com/Madhu-36/Packet-way)** | `Network Forensics` | Enterprise-grade network threat detection and deep packet inspection engine with raw socket traffic reconstruction. | `JavaScript`, `Node.js`, `Protocols` |
-| **🎮 [Game-Complex](https://github.com/Madhu-36/Game-Complex)** | `Game Ecosystem` | Interactive gaming storefront and 3D environment architecture featuring procedural systems and high-throughput backend services. | `Unity`, `C#`, `React`, `Django` |
-| **🧠 [MXB (Machine eXecutive Brain)](https://github.com/Madhu-36/MXB)** | `Local AI Agents` | AI-powered second brain and system executive assistant for Windows powered by local Llama 3.1 inference. | `Python`, `Llama 3.1`, `Automation` |
+| **🎮 [Game-Complex](https://github.com/Madhu-36/Game-Complex)** | `Game Ecosystem` | Interactive gaming storefront and 3D environment architecture featuring procedural systems and high-throughput backend services. | `Unity 6.0`, `C#`, `React`, `Django` |
 | **🌐 [Interactive 3D Portfolio](https://github.com/Madhu-36/My_Portfolio)** | `3D Graphics & Web` | Futuristic 3D portfolio with Three.js WebGL rendering, custom cursor physics, Web Audio SFX engine, and telemetry HUD ([Live Demo](https://madhu-36.github.io/My_Portfolio/)). | `React`, `Three.js`, `TypeScript`, `Tailwind` |
+
+---
+
+### 🏆 Hackathon & Leadership Highlights
+
+- 👑 **Team Lead — EW Root Coders, EWIT**
+- 🌍 **NASA Space Apps Challenge 2025** — Selected Team Lead representing EWIT in prestigious global innovation challenge.
+- 🇮🇳 **Smart India Hackathon 2025** — Team Lead driving hardware/software solutions for national problem statements.
 
 ---
 
