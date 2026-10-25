@@ -15,6 +15,13 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhu.s.3606@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/Madhu-36?label=Followers&style=for-the-badge&color=24292e&logo=github)](https://github.com/Madhu-36)
 
+<br/><br/>
+
+[![Current Streak](https://img.shields.io/badge/Current_Streak-23_Days_🔥-FF5722?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/Madhu-36)
+[![Longest Streak](https://img.shields.io/badge/Longest_Streak-35_Days_⚡-blue?style=for-the-badge&logo=speedtest&logoColor=white)](https://github.com/Madhu-36)
+[![Total Contributions](https://img.shields.io/badge/Total_Contributions-1%2C480%2B-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhu-36)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-1.8k%2B-00C7B7?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Madhu-36)
+
 </div>
 
 ---
@@ -28,6 +35,11 @@ identity:
   portfolio: "https://madhu-36.github.io/My_Portfolio/"
   education: "B.E. in Computer Science (AI & Data Science) — East West Institute of Technology"
   leadership: "Team Lead — EW Root Coders (NASA Space Apps & Smart India Hackathon 2025)"
+  metrics:
+    current_streak: "23+ Days (Active)"
+    longest_streak: "35 Days"
+    total_contributions: "1,480+"
+    total_commits: "1,800+ (1.8k)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
     - Defensive & Offensive Cybersecurity (Penetration Testing)
@@ -149,18 +161,30 @@ identity:
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Streak Telemetry
+
+| Metric | Real-World Figure | Status / Scope |
+| :--- | :---: | :--- |
+| 🔥 **Current Active Streak** | **23+ Days** | Continually Active *(Oct 3 – Oct 25)* |
+| ⚡ **Longest Streak** | **35 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
+| 📈 **Total Contributions** | **1,480+** | Multi-Repository Contributions *(May 2025 – Present)* |
+| 💻 **Total Git Commits** | **1,800+ (1.8k)** | Across Python, Rust, C#, TypeScript & AI Projects |
+| ⚙️ **Automation Pipeline** | **100% CI Health** | Automated Tests & Snake Generation Workflow |
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhu-36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Madhu-36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhu-36&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Madhu-36&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<img src="https://streak-stats.demolab.com?user=Madhu-36&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="97%" />
 
 <br/><br/>
+
+<h4>🐍 Real-Time Contribution Grid Animation</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/github-contribution-grid-snake-dark.svg">
