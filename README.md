@@ -55,6 +55,16 @@ identity:
 
 ---
 
+### 🎯 Current Directives & Focus
+
+- 🔭 **Architecting**: Next-iteration kernel-level network packet interceptors and automated reinforcement learning defense policies.
+- 🧪 **Researching**: Low-latency local Small Language Model (SLM) inference pipelines with Ollama, Whisper, and task orchestration.
+- 🎮 **Engineering**: High-fidelity procedural systems, custom GLSL/HLSL shaders, and AI behavior trees in Unity 6.0.
+- 💬 **Ask Me About**: Penetration testing, OWASP Top 10 web exploitation, real-time AI inference, Rust CLI architectures, and Three.js 3D web engines.
+- ⚡ **Core Creed**: *"I train neural nets by day, craft game physics by evening, and audit packet flows by night."*
+
+---
+
 ### 🛠️ Technical Arsenal
 
 <br/>
