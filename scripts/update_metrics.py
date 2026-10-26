@@ -63,38 +63,31 @@ def fetch_data():
 def generate_badges(metrics):
     os.makedirs("dist", exist_ok=True)
     
+    # Valid Shields.io Endpoint schema: schemaVersion, label, message, color
     badges = {
         "dist/streak.json": {
             "schemaVersion": 1,
             "label": "Current Streak",
             "message": f"{metrics['current_streak']} Days 🔥",
-            "color": "FF5722",
-            "logo": "fire",
-            "logoColor": "white"
+            "color": "FF5722"
         },
         "dist/longest_streak.json": {
             "schemaVersion": 1,
             "label": "Longest Streak",
             "message": f"{metrics['longest_streak']} Days ⚡",
-            "color": "0A66C2",
-            "logo": "speedtest",
-            "logoColor": "white"
+            "color": "0A66C2"
         },
         "dist/contributions.json": {
             "schemaVersion": 1,
             "label": "Total Contributions",
             "message": f"{metrics['total_contribs']} 🚀",
-            "color": "7928CA",
-            "logo": "github",
-            "logoColor": "white"
+            "color": "7928CA"
         },
         "dist/commits.json": {
             "schemaVersion": 1,
             "label": "Total Commits",
             "message": f"{metrics['total_commits_short']} 💻",
-            "color": "00C7B7",
-            "logo": "git",
-            "logoColor": "white"
+            "color": "00C7B7"
         }
     }
     
