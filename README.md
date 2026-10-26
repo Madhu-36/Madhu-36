@@ -17,10 +17,10 @@
 
 <br/><br/>
 
-[![Current Streak](https://img.shields.io/badge/Current_Streak-23_Days_🔥-FF5722?style=for-the-badge&logo=fire&logoColor=white)](https://github.com/Madhu-36)
-[![Longest Streak](https://img.shields.io/badge/Longest_Streak-35_Days_⚡-blue?style=for-the-badge&logo=speedtest&logoColor=white)](https://github.com/Madhu-36)
-[![Total Contributions](https://img.shields.io/badge/Total_Contributions-1%2C480%2B-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Madhu-36)
-[![Total Commits](https://img.shields.io/badge/Total_Commits-1.8k%2B-00C7B7?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Madhu-36)
+[![Current Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/streak.json&style=for-the-badge)](https://github.com/Madhu-36)
+[![Longest Streak](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/longest_streak.json&style=for-the-badge)](https://github.com/Madhu-36)
+[![Total Contributions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/contributions.json&style=for-the-badge)](https://github.com/Madhu-36)
+[![Total Commits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Madhu-36/Madhu-36/output/commits.json&style=for-the-badge)](https://github.com/Madhu-36)
 
 </div>
 
@@ -36,10 +36,10 @@ identity:
   education: "B.E. in Computer Science (AI & Data Science) — East West Institute of Technology"
   leadership: "Team Lead — EW Root Coders (NASA Space Apps & Smart India Hackathon 2025)"
   metrics:
-    current_streak: "23+ Days (Active)"
+    current_streak: "24+ Days (Active)"
     longest_streak: "35 Days"
-    total_contributions: "1,480+"
-    total_commits: "1,800+ (1.8k)"
+    total_contributions: "1,510+"
+    total_commits: "1,824 (1.8k+)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
     - Defensive & Offensive Cybersecurity (Penetration Testing)
@@ -175,11 +175,11 @@ identity:
 
 | Metric | Real-World Figure | Status / Scope |
 | :--- | :---: | :--- |
-| 🔥 **Current Active Streak** | **23+ Days** | Continually Active *(Oct 3 – Oct 25)* |
+| 🔥 **Current Active Streak** | **24+ Days** | Continually Active *(Oct 3 – Oct 26)* |
 | ⚡ **Longest Streak** | **35 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
-| 📈 **Total Contributions** | **1,480+** | Multi-Repository Contributions *(May 2025 – Present)* |
-| 💻 **Total Git Commits** | **1,800+ (1.8k)** | Across Python, Rust, C#, TypeScript & AI Projects |
-| ⚙️ **Automation Pipeline** | **100% CI Health** | Automated Tests & Snake Generation Workflow |
+| 📈 **Total Contributions** | **1,510+** | Multi-Repository Contributions *(May 2025 – Present)* |
+| 💻 **Total Git Commits** | **1,824 (1.8k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
+| ⚙️ **Automation Pipeline** | **100% Automated CI** | Self-Updating Metrics & Snake Generation Workflow |
 
 <br/>
 
