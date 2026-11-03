@@ -36,10 +36,10 @@ identity:
   education: "B.E. in Computer Science (AI & Data Science) — East West Institute of Technology"
   leadership: "Team Lead — EW Root Coders (NASA Space Apps & Smart India Hackathon 2025)"
   metrics:
-    current_streak: "31+ Days (Active)"
+    current_streak: "24+ Days (Active)"
     longest_streak: "35 Days"
-    total_contributions: "1,651+"
-    total_commits: "1,965 (2.0k+)"
+    total_contributions: "1,510+"
+    total_commits: "1,990 (2.0k+)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
     - Defensive & Offensive Cybersecurity (Penetration Testing)
@@ -175,10 +175,10 @@ identity:
 
 | Metric | Real-World Figure | Status / Scope |
 | :--- | :---: | :--- |
-| 🔥 **Current Active Streak** | **31+ Days** | Continually Active *(Oct 3 – Oct 26)* |
+| 🔥 **Current Active Streak** | **24+ Days** | Continually Active *(Oct 3 – Oct 26)* |
 | ⚡ **Longest Streak** | **35 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
-| 📈 **Total Contributions** | **1,651+** | Multi-Repository Contributions *(May 2025 – Present)* |
-| 💻 **Total Git Commits** | **1,965 (2.0k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
+| 📈 **Total Contributions** | **1,510+** | Multi-Repository Contributions *(May 2025 – Present)* |
+| 💻 **Total Git Commits** | **1,990 (2.0k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
 | ⚙️ **Automation Pipeline** | **100% Automated CI** | Self-Updating Metrics & Snake Generation Workflow |
 
 <br/>
