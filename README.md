@@ -38,8 +38,8 @@ identity:
   metrics:
     current_streak: "33+ Days (Active)"
     longest_streak: "35 Days"
-    total_contributions: "1,704+"
-    total_commits: "2,019 (2.0k+)"
+    total_contributions: "1,719+"
+    total_commits: "2,033 (2.0k+)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
     - Defensive & Offensive Cybersecurity (Penetration Testing)
@@ -177,8 +177,8 @@ identity:
 | :--- | :---: | :--- |
 | 🔥 **Current Active Streak** | **33+ Days** | Continually Active *(Oct 3 – Oct 26)* |
 | ⚡ **Longest Streak** | **35 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
-| 📈 **Total Contributions** | **1,704+** | Multi-Repository Contributions *(May 2025 – Present)* |
-| 💻 **Total Git Commits** | **2,019 (2.0k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
+| 📈 **Total Contributions** | **1,719+** | Multi-Repository Contributions *(May 2025 – Present)* |
+| 💻 **Total Git Commits** | **2,033 (2.0k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
 | ⚙️ **Automation Pipeline** | **100% Automated CI** | Self-Updating Metrics & Snake Generation Workflow |
 
 <br/>
