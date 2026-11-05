@@ -36,9 +36,9 @@ identity:
   education: "B.E. in Computer Science (AI & Data Science) — East West Institute of Technology"
   leadership: "Team Lead — EW Root Coders (NASA Space Apps & Smart India Hackathon 2025)"
   metrics:
-    current_streak: "33+ Days (Active)"
+    current_streak: "34+ Days (Active)"
     longest_streak: "35 Days"
-    total_contributions: "1,719+"
+    total_contributions: "1,724+"
     total_commits: "2,033 (2.0k+)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
@@ -175,9 +175,9 @@ identity:
 
 | Metric | Real-World Figure | Status / Scope |
 | :--- | :---: | :--- |
-| 🔥 **Current Active Streak** | **33+ Days** | Continually Active *(Oct 3 – Oct 26)* |
+| 🔥 **Current Active Streak** | **34+ Days** | Continually Active *(Oct 3 – Oct 26)* |
 | ⚡ **Longest Streak** | **35 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
-| 📈 **Total Contributions** | **1,719+** | Multi-Repository Contributions *(May 2025 – Present)* |
+| 📈 **Total Contributions** | **1,724+** | Multi-Repository Contributions *(May 2025 – Present)* |
 | 💻 **Total Git Commits** | **2,033 (2.0k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
 | ⚙️ **Automation Pipeline** | **100% Automated CI** | Self-Updating Metrics & Snake Generation Workflow |
 
