@@ -38,8 +38,8 @@ identity:
   metrics:
     current_streak: "35+ Days (Active)"
     longest_streak: "35 Days"
-    total_contributions: "1,798+"
-    total_commits: "2,108 (2.1k+)"
+    total_contributions: "1,821+"
+    total_commits: "2,131 (2.1k+)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
     - Defensive & Offensive Cybersecurity (Penetration Testing)
@@ -49,7 +49,7 @@ identity:
 ```
 
 - 🛡️ **Cybersecurity & Ethical Hacking**: Experienced intern at *Jutrm Career Academy* & *ACMEGRADE* conducting real-time penetration testing, OWASP Top 10 web app assessments (SQLi, XSS, IDOR), kernel-level audits, and network threat defense.
-- 🤖 **AI & Autonomous Agents**: Creator of **MXB V2.2** (ultra-fast local voice AI assistant & Windows executive brain with Llama 3.1) and **Adaptive Firewall** (LSTM-Autoencoder + PPO RL with eBPF / XDP kernel filtering).
+- 🤖 **AI & Autonomous Agents**: Creator of **MXB V2.3** (ultra-fast local voice AI assistant & Windows executive brain with Llama 3.1) and **Adaptive Firewall** (LSTM-Autoencoder + PPO RL with eBPF / XDP kernel filtering).
 - 🎮 **Game & 3D Development**: Crafting interactive virtual worlds with Unity Engine 6.0, C#, Three.js / WebGL shaders, procedural terrain generation, and AI behavior trees.
 - 👑 **Innovation & Hackathon Leadership**: Selected as **Team Lead** representing EWIT in both **NASA Space Apps Challenge 2025** and **Smart India Hackathon 2025**.
 
@@ -227,5 +227,6 @@ Whether you're interested in **AI-driven security**, **interactive game systems*
 *"Developing and Securing INNOVATION, one byte at a time."*
 
 </div>
+
 
 
