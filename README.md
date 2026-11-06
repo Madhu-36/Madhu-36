@@ -38,8 +38,8 @@ identity:
   metrics:
     current_streak: "35+ Days (Active)"
     longest_streak: "35 Days"
-    total_contributions: "1,800+"
-    total_commits: "2,110 (2.1k+)"
+    total_contributions: "1,830+"
+    total_commits: "2,140 (2.1k+)"
   disciplines:
     - Artificial Intelligence & Autonomous Agents
     - Defensive & Offensive Cybersecurity (Penetration Testing)
@@ -133,7 +133,7 @@ identity:
 
 | Project | Focus | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
-| **🧠 [MXB (Machine eXecutive Brain) V2.0](https://github.com/Madhu-36/MXB)** | `Local AI & Agents` | Ultra-fast local voice AI assistant & autonomous executive engine for Windows with local Llama 3.1, Whisper, glassmorphism HUD, TF-IDF semantic memory, and automated workflow task orchestration. | `Python`, `Llama 3.1`, `Whisper`, `Ollama` |
+| **🧠 [MXB (Machine eXecutive Brain) V2.0](https://github.com/Madhu-36/MXB)** | `Local AI & Agents` | Decoupled 5-stage parallel voice AI desktop executive assistant for Windows with Silero VAD, NVIDIA/Whisper ASR, draggable HUD, native 64-bit Two-Hands automation, DPAPI vault, and sub-millisecond fast-paths (109 passing tests). | `Python`, `Llama 3.1`, `Whisper`, `Ollama` |
 | **🛡️ [Adaptive-firewall-Application-using-AI](https://github.com/Madhu-36/Adaptive-firewall-Application-using-AI)** | `AI & Security` | Next-generation adaptive firewall featuring real-time anomaly detection and eBPF / XDP kernel-level rule automation (LSTM-Autoencoder + PPO RL). | `Python`, `eBPF`, `PyTorch`, `Scapy` |
 | **⚡ [DevIgnite](https://github.com/Madhu-36/DevIgnite)** | `Systems & CLI` | High-performance, cross-platform developer environment manager with a sandboxed symlink routing engine to eliminate path pollution. | `Rust`, `Systems`, `CLI Architecture` |
 | **🔍 [ASTra](https://github.com/Madhu-36/ASTra)** | `Security & AI` | Security-first, repository-local action layer for AI Developer Assistants, providing safe execution sandboxes and AST-based vulnerability scanning. | `Python`, `AST`, `Code Security` |
