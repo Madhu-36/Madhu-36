@@ -37,14 +37,14 @@ identity:
   leadership: "Team Lead — EW Root Coders (NASA Space Apps & Smart India Hackathon 2025)"
   metrics:
 <<<<<<< HEAD
-    current_streak: "35+ Days (Active)"
-    longest_streak: "35 Days"
-    total_contributions: "1,830+"
-    total_commits: "2,175+ (2.1k+)"
+    current_streak: "38+ Days (Active)"
+    longest_streak: "38 Days"
+    total_contributions: "1,838+"
+    total_commits: "2,145 (2.1k+)"
 =======
-    current_streak: "37+ Days (Active)"
-    longest_streak: "37 Days"
-    total_contributions: "1,836+"
+    current_streak: "38+ Days (Active)"
+    longest_streak: "38 Days"
+    total_contributions: "1,838+"
     total_commits: "2,145 (2.1k+)"
 >>>>>>> 41be4be8c4fe73e34f7b531786cc9b479febc7cb
   disciplines:
@@ -182,9 +182,9 @@ identity:
 
 | Metric | Real-World Figure | Status / Scope |
 | :--- | :---: | :--- |
-| 🔥 **Current Active Streak** | **37+ Days** | Continually Active *(Oct 3 – Oct 26)* |
-| ⚡ **Longest Streak** | **37 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
-| 📈 **Total Contributions** | **1,836+** | Multi-Repository Contributions *(May 2025 – Present)* |
+| 🔥 **Current Active Streak** | **38+ Days** | Continually Active *(Oct 3 – Oct 26)* |
+| ⚡ **Longest Streak** | **38 Days** | Personal Milestone *(Aug 28 – Oct 1)* |
+| 📈 **Total Contributions** | **1,838+** | Multi-Repository Contributions *(May 2025 – Present)* |
 | 💻 **Total Git Commits** | **2,145 (2.1k+)** | Across Python, Rust, C#, TypeScript & AI Projects |
 | ⚙️ **Automation Pipeline** | **100% Automated CI** | Self-Updating Metrics & Snake Generation Workflow |
 
